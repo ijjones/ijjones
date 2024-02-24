@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2> hi, i'm isaiah! </h2>
 
-<!--
-**ij-jones/ij-jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ :love_letter: [laurachen.me](https://laurachen.me)
 
-Here are some ideas to get you started:
+welcome to my corner of the internet :computer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const isaiah = {
+  pronouns: ["he", "him"],
+  code: ["javascript", "java", "python", "java", "html", "css"],
+  tools: ["react", "next.js", "tailwind", "mongodb", "node"],
+  school: ["uc San Diego"],
+  }
+}
+
+```
