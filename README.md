@@ -7,7 +7,7 @@ const isaiah = {
   pronouns: ["he", "him"],
   code: ["javascript", "java", "python", "java", "html", "css"],
   tools: ["react", "next.js", "tailwind", "mongodb", "node"],
-  school: ["uc San Diego"],
+  school: ["uc san diego"],
   }
 }
 
