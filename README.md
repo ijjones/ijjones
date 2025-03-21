@@ -1,7 +1,5 @@
 <h2> hi, i'm isaiah! </h2>
 
-welcome to my corner of the internet :computer:
-
 ```javascript
 const isaiah = {
   pronouns: ["he", "him"],
