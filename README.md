@@ -1,4 +1,4 @@
-<h2> hi, i'm isaiah!
+<h2> hi, i'm isaiah! </h2>
 
 ```javascript
 const isaiah = {
